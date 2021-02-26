@@ -6,8 +6,5 @@
 Fully Optimized and Clean. Perfect for Servers who are looking for elements to boost Quality RP. 
 Thanks to https://github.com/Tazi0/esx_invest for providing basic Interface to Interact with Stocks. 
 
-## Preview / Demo 
-
-### Click the Image to Redirect to the Demo Video 
-[Script Preview / Demo](https://www.youtube.com/watch?v=z6kGsspxL00)
+## [Script Preview / Demo](https://www.youtube.com/watch?v=z6kGsspxL00)
 
