@@ -1,6 +1,6 @@
 # QBUS x POLY | Stocks Exchange Script | 
 
-### Discord Server for any Support/Queries | [DISCORD SERVER](https://discord.gg/EtCTkbAXxr)
+### My Discord ID : POLYGON#5788
 ### A stock exchange script for Qbus FrameWork | Invest into companies and see yourself become the richest person of the City! You need nothing except Luck and Brain!
 #### SQL Included - Don't forget to run it :)
 Fully Optimized and Clean. Perfect for Servers who are looking for elements to boost Quality RP. 
