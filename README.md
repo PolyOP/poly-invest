@@ -7,4 +7,4 @@ Fully Optimized and Clean. Perfect for Servers who are looking for elements to b
 Thanks to https://github.com/Tazi0/esx_invest for providing basic Interface to Interact with Stocks. 
 
 ## Preview / Demo 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![QBUS X POLY](https://imgur.com/a/ZEL8cRS)](https://www.youtube.com/watch?v=z6kGsspxL00)
