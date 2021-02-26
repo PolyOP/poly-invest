@@ -7,4 +7,7 @@ Fully Optimized and Clean. Perfect for Servers who are looking for elements to b
 Thanks to https://github.com/Tazi0/esx_invest for providing basic Interface to Interact with Stocks. 
 
 ## Preview / Demo 
-[![QBUS X POLY](https://i.imgur.com/szIhPyX.png)](https://www.youtube.com/watch?v=z6kGsspxL00)
+
+### Click the Image to Redirect to the Demo Video 
+[VIDEO](https://www.youtube.com/watch?v=z6kGsspxL0)
+
