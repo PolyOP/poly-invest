@@ -16,13 +16,14 @@ AddEventHandler("invest:balance", function()
     local id = xPlayer.PlayerData.citizenid
     local user = MySQL.Sync.fetchAll('SELECT `amount` FROM `invest` WHERE `identifier`=@id AND active=1', {["@id"] = id})
     local invested = 0
+    local plname = ''..xPlayer.PlayerData.charinfo.firstname..' '..xPlayer.PlayerData.charinfo.lastname..''
     for k, v in pairs(user) do
         -- print(k, v.identifier, v.amount, v.job)
         invested = invested + v.amount
     end
     TriggerClientEvent("invest:nui", src, {
         type = "balance",
-        player = GetPlayerName(src),
+        player = plname,
         balance = invested
     })
 end)
