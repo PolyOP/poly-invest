@@ -1,6 +1,6 @@
 # QBUS x POLY | Stocks Exchange Script | 
 
-### My Discord ID : POLYGON#5788
+### My Discord : discord.io/osmfx
 ### A stock exchange script for Qbus FrameWork | Invest into companies and see yourself become the richest person of the City! You need nothing except Luck and Brain!
 #### SQL Included - Don't forget to run it :)
 #### Dependency - MySQL-Async
