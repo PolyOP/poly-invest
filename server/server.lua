@@ -140,7 +140,8 @@ AddEventHandler("invest:sell", function(job)
     local sellRate = math.abs(result.investRate - result.rate)
     local addMoney = amount + ((amount * sellRate) / 100)
 
-    
+    local addMoney = math.ceil(addMoney)
+
     -- print("intrest calc: " .. result.investRate .. " -> " .. result.rate .. " = " .. sellRate)
     -- print("money calc: " .. amount .. " -> " .. addMoney)
 
